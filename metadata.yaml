@@ -1,0 +1,32 @@
+_repo: The-Relations-between-the-Laws-of-Babylonia-and-the-Laws-of-the-Hebrew-PeoplesThe-Schweich-Le__46050
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46050-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johns, C. H. W. (Claude Hermann Walter)
+    alias: Johns, Claude Hermann Walter
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '7177'
+    url: http://www.gutenberg.org/2009/agents/7177
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Hermann_Walter_Johns
+description: ''
+gutenberg_issued: '2014-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46050'
+  lccn: '15019664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jewish law'
+- !lcsh 'Law -- Iraq -- Babylonia'
+title: 'The Relations between the Laws of Babylonia and the Laws of the Hebrew Peoples
+
+  The Schweich Lectures'
+url: http://www.gutenberg.org/ebooks/46050
