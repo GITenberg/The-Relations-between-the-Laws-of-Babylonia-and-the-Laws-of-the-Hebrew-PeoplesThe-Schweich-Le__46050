@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7177
     wikipedia: http://en.wikipedia.org/wiki/Claude_Hermann_Walter_Johns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46050#The-Relations-between-the-Laws-of-Babylonia-and-the-Laws-of-the-Hebrew-PeoplesThe-Schweich-Le_
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
